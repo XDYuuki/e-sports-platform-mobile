@@ -6,7 +6,7 @@ interface Props extends ViewProps {
     subtitle: string
 } 
 
-export default function Header({title, subtitle, ...rest}: Props) {
+export default function Heading({title, subtitle, ...rest}: Props) {
   return (
     <View style={styles.container} {...rest}>
         <Text style={styles.title}> 
