@@ -31,7 +31,7 @@ Project Link: [E-Sports Platform Web](https://github.com/XDYuuki/e-sports-platfo
 Project Link: [E-Sports Platform Server](https://github.com/XDYuuki/e-sports-platform-server)
 Project Link: [E-Sports Platform Mobile](https://github.com/XDYuuki/e-sports-platform-mobile)
 
-<p align="right">(<a href="main#mobile-application-for-the-e-sports-platform">back to top</a>)</p>
+<p align="right">(<a href="#mobile-application-for-the-e-sports-platform">back to top</a>)</p>
 
 
 [linkedin-gabriel]: https://www.linkedin.com/in/gabriellbr/
