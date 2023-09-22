@@ -27,4 +27,17 @@ export const styles = StyleSheet.create({
         borderRadius: 8,
         marginTop: 32,
     },
+    containerList: {
+        width: "100%",
+    },
+    contentList: {
+        paddingLeft: 32,
+        paddingRight: 64,
+        alignItems: "flex-start",
+    },
+    emptyList: {
+        flex: 1,
+        alignItems: "center",
+        justifyContent: "center",
+    },
 });
