@@ -9,6 +9,8 @@ This prokect uses React native + TypeScript + Expo to create the user interface 
 1. Clone the repository
    ```sh
    git clone https://github.com/XDYuuki/e-sports-platform-mobile
+   ```
+   ```sh
    cd e-sports-platform-mobile
    ```
 2. Open in terminal and run using:
