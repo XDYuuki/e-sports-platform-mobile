@@ -3,7 +3,7 @@
 ## 1. INTRODUCTION
 This prokect uses React native + TypeScript + Expo to create the user interface to access the platform.
 
-![interface](/public/readme-introduction-cover.png)
+![interface](/public/readme-introduction-cover.jpg)
 
 ## 2. RUNING THE DEVELOPER VERSION
 1. Clone the repository
